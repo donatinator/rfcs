@@ -1,3 +1,11 @@
+# MOVED TO GITLAB #
+
+Please see the following project for more details:
+
+* https://gitlab.com/donatinator/rfcs
+
+Thanks.
+
 # RFCs #
 
 Repository to hold RFCs for substantial changes to The Donatinator and for discussion to take place about each change.
